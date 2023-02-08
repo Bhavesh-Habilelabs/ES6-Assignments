@@ -1,0 +1,22 @@
+.outer{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border:1px solid red;
+    width: 70%;
+    text-align: justify;
+    border-collapse: collapse;
+}
+th{
+    background-color: green;
+    color: black;
+    text-align: center;
+    height: 25px;
+}
+tr td{
+    padding-left: 25px;
+    background-color: rgba(211, 211, 211, 0.356);
+    border:1px solid black;
+}
+    
